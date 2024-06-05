@@ -1,0 +1,87 @@
+body {
+    background-image: url('img/background1.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.card {
+    background-image: url('img/rangeForCard.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+#linkToHomePage{
+       width: 7%;
+ }
+
+#cardsContainer {
+    padding-top: 4%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#timer {
+    display: none;
+    color: rgba(255, 255, 255, 0.642);
+    width: 100%;
+    height: 90%;
+    text-align: center;
+    font-size: 115px;
+}
+
+#allImagesContainer,
+#allImagesContainer2 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: stretch;
+  width: 500px;
+}
+
+.image {
+    
+    height: auto;
+}
+
+.image:hover {
+    opacity: 0.5;
+}
+
+#buttonToStart {
+    background-color: rgba(255, 255, 255,);
+    width: 30%;
+    height: 12%;
+    size: 100%;
+    border-radius: 50px;
+    font-size: x-large;
+    font-style:normal;
+    margin-top: 30%;
+
+}
+
+#inTheMiddle {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.cardim {
+    width: 32%;
+}
+#z1,#z2{
+    margin-left: 30%;
+    margin-top: 20%;
+    width: 47%;
+}
+#linkToHomePage{
+    background-color: aliceblue;
+    background-size: 10%,30%;
+
+}

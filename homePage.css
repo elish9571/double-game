@@ -1,0 +1,18 @@
+body {
+  background-image: url("img/gifHomePage_me.gif");
+  background-size: 100%;
+}
+.imgLink {
+  height: 18vh;
+  width: 10vw;
+  opacity: 0;
+  margin-left: 45%;
+  margin-top: 35%;
+}
+.img2Link {
+  height: 10vh;
+  width: 40vw;
+  opacity: 0;
+  margin-left: 30%;
+  margin-top: 2.5%;
+}
