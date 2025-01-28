@@ -13,5 +13,5 @@ The project is organized as follows:<br>
 The game data is stored and retrieved using the browser's Local Storage.
 
 
-##### good luck!
-e.
+##### Good Luck!
+Elish.
